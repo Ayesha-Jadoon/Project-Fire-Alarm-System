@@ -39,7 +39,7 @@ The Fire Alarm System is a critical safety project developed as part of the Digi
 Watch the project video here: [Project Video](Project_video.mp4)
 
 ## Project Code
-The Arduino code for the Fire Alarm System can be found [here](path/to/Project_code.ino).
+The Arduino code for the Fire Alarm System can be found [here](Project_code.ino).
 
 ## Conclusion
 The Fire Alarm System project successfully integrates basic digital logic principles to create a functional fire detection and alert system. By combining a flame sensor, Arduino UNO, and buzzer, the project demonstrates effective early fire detection and alarm capabilities, providing valuable hands-on experience in both hardware and software aspects of digital design
