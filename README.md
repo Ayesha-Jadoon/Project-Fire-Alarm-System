@@ -33,7 +33,7 @@ The Fire Alarm System is a critical safety project developed as part of the Digi
 ![Hardware Photo](Hardware_photo.jpg)
 
 ## Circuit Diagram
-![Circuit Diagram](Circuit_diagram.png)
+![Circuit Diagram](Circuit_diagram.jpg)
 
 ## Project Video
 Watch the project video here: [Project Video](Project_video.mp4)
